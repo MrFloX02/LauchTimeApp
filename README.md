@@ -1,8 +1,8 @@
-# Team
+## Team
 - Messager Eric
 
-# Subject 
+## Subject 
 SMS messaging Application on IOS
 
-# Languages
+## Languages
 - SwiftUI
