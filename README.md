@@ -2,7 +2,7 @@
 - Messager Eric
 
 ## Subject 
-SMS messaging application on IOS
+SMS messaging application for IOS devices
 
 ## Languages
 - SwiftUI
